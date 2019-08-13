@@ -1,0 +1,3 @@
+[submodule "steam-pics-api"]
+	path = steam-pics-api
+	url = https://github.com/DoctorMcKay/steam-pics-api
